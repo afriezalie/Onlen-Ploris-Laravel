@@ -1,0 +1,84 @@
+.text-xs{
+    font-size: x-small;
+}
+
+.text-sm{
+    font-size: small;
+}
+
+.text-xl{
+    font-size: x-large;
+}
+.text-xxl{
+    font-size: xx-large;
+}
+
+.text-800{
+    font-size: 800%;
+}
+
+.text-red{
+    color: #e74c3c;
+}
+
+.text-white{
+    color: #fff;
+}
+
+.navbar{
+    margin-bottom: 50px;
+}
+
+.bg-red{
+    background-color: #e74c3c;
+}
+
+.btn-label-small{
+    font-size: small;
+}
+
+.btn-label-dark{
+    color: #fff;
+}
+
+.form-control.is-invalid{
+    background-image: none;
+    padding-right: inherit;
+}
+
+.paginate-link-right .pagination{
+    -ms-flex-align: end;
+    justify-content: flex-end;
+}
+
+
+.op-detail{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.op-detail-title{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.op-detail-price{
+    font-size: large;
+    font-weight: bold;
+    color: #e74c3c;
+}
+
+.op-paginate .page-link{
+    color: #e74c3c;
+}
+
+.op-paginate .page-item.active .page-link{
+    background-color: #e74c3c;
+    border-color: #e74c3c;
+}
+
+hr{
+    border-color: #e74c3c;
+}
